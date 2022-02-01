@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  background-image: linear-gradient(120deg, #f66565 0%, #fd8585 100%);
   color: white;
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
@@ -28,7 +28,7 @@ form button {
   background: white;
 }
 form button {
-  color: #ff6f47;
+  color:red;
   background: #f7fffe;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -127,7 +127,7 @@ select {
   top: 0;
   right: 0;
   padding: 1rem;
-  background: #ff6f47;
+  background:red;
   cursor: pointer;
   pointer-events: none;
 }
